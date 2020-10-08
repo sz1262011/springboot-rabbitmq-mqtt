@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootRabbitmqMqttApplication<springboot-rabbitmq-mqtt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.iot.mqtt.SpringbootRabbitmqMqttApplication",
+            "projectName": "springboot-rabbitmq-mqtt",
+            "args": ""
+        }
+    ]
+}
